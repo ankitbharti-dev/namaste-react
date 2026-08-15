@@ -2,7 +2,10 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "Leaning react from akshay saini",
+  "browserslist" : ["last 2 versions"],
   "scripts": {
+    "start": "parcel index.html",
+    "build": "build index.html",
     "test": "jest"
   },
   "repository": {
