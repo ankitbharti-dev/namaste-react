@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Leaning react from akshay saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitbharti-dev/namaste-react.git"
+  },
+  "keywords": [
+    "namaste",
+    "react",
+    "leaning",
+    "react"
+  ],
+  "author": "Ankit Bharti",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ankitbharti-dev/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ankitbharti-dev/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
